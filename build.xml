@@ -45,7 +45,7 @@
 
     <condition
         property="sdk.dir"
-        value="${env.ANDROID_HOME}" >
+        value="D:/Android/Eclipse-SDK" >
 
         <isset property="env.ANDROID_HOME" />
     </condition>
